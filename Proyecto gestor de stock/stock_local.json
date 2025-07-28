@@ -1,0 +1,50 @@
+{
+  "123456789": {
+    "codigo": "123456789",
+    "producto": "Laptop HP Pavilion",
+    "stock": 64,
+    "stock_minimo": 2,
+    "precio": 899.99,
+    "ultima_actualizacion": "2025-07-28 03:21"
+  },
+  "987654321": {
+    "codigo": "987654321",
+    "producto": "Mouse Inalámbrico Logitech",
+    "stock": 44,
+    "stock_minimo": 5,
+    "precio": 25.5,
+    "ultima_actualizacion": "2025-07-28 03:09"
+  },
+  "456789123": {
+    "codigo": "456789123",
+    "producto": "Teclado Mecánico RGB",
+    "stock": 3,
+    "stock_minimo": 3,
+    "precio": 89.99,
+    "ultima_actualizacion": "2025-07-28 02:43"
+  },
+  "789123456": {
+    "codigo": "789123456",
+    "producto": "Monitor 24\" Samsung",
+    "stock": 3,
+    "stock_minimo": 2,
+    "precio": 199.99,
+    "ultima_actualizacion": "2024-01-14 14:20"
+  },
+  "321654987": {
+    "codigo": "321654987",
+    "producto": "Cable HDMI 2m",
+    "stock": 22,
+    "stock_minimo": 10,
+    "precio": 8.99,
+    "ultima_actualizacion": "2025-07-28 03:06"
+  },
+  "50817734": {
+    "codigo": "50817734",
+    "producto": "palo de golf",
+    "stock": 12,
+    "stock_minimo": 4,
+    "precio": 124.0,
+    "ultima_actualizacion": "2025-07-28 03:10"
+  }
+}

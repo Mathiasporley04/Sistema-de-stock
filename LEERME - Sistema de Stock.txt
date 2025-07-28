@@ -1,0 +1,54 @@
+===========================================
+    SISTEMA DE CONTROL DE STOCK
+===========================================
+
+¡PROYECTO ORGANIZADO Y LISTO PARA USAR!
+
+📁 CARPETA DEL PROYECTO:
+   "Proyecto gestor de stock"
+
+🚀 PARA ABRIR EL SISTEMA:
+   1. Doble clic en "ABRIR SISTEMA DE STOCK.bat"
+   O
+   2. Abre la carpeta "Proyecto gestor de stock"
+   3. Ejecuta: python Control_stock.py
+
+📋 ARCHIVOS INCLUIDOS:
+   - Control_stock.py (Sistema principal)
+   - README.md (Documentación completa)
+   - INSTRUCCIONES_RAPIDAS.md (Guía rápida)
+   - configurar_google_sheets.py (Configurar nube)
+   - test_sistema.py (Pruebas del sistema)
+   - stock_local.json (Datos de ejemplo)
+   - requirements.txt (Dependencias)
+
+🎯 FUNCIONES PRINCIPALES:
+   - Escaneo de códigos de barras
+   - Botones +1 y -1 para ventas/devoluciones rápidas
+   - Gestión de stock (alta/baja múltiple)
+   - Búsqueda de productos
+   - Reportes automáticos
+   - Sincronización con Google Sheets
+
+💡 PRIMEROS PASOS:
+   1. Conecta tu pistola de código de barras
+   2. Ejecuta el sistema
+   3. Escanea cualquier producto
+   4. El sistema automáticamente mostrará la información
+   5. Usa los botones +1/-1 para ventas rápidas
+   6. ¡El sistema te guiará!
+
+⌨️  ATAJOS DE TECLADO:
+   Ctrl + (+) = Sumar 1 unidad
+   Ctrl + (-) = Restar 1 unidad
+
+🎨 INDICADORES VISUALES:
+   Verde ✅ = Stock bueno
+   Naranja ⚡ = Stock medio
+   Rojo ⚠️ = Stock bajo
+
+📞 SOPORTE:
+   Lee README.md para instrucciones detalladas
+   o INSTRUCCIONES_RAPIDAS.md para empezar rápido
+
+=========================================== 
